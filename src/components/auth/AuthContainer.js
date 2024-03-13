@@ -15,7 +15,7 @@ const AuthContainer = () => {
                 <Card className="whiteBox authCard">
                     <img src={LogoColoured} alt="logo" width="150px" className="logo" />
 
-                    <GoogleOAuthProvider clientId="1039207877766-8cptjj8eua65kmj3bk660p0k3j1e0fii.apps.googleusercontent.com">
+                    <GoogleOAuthProvider clientId="934538465450-e9g4j3oajj8lnfde3cmf4k1b34d4sfmn.apps.googleusercontent.com">
                         <GoogleAuth />
                     </GoogleOAuthProvider>
                 </Card>
