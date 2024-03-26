@@ -16,9 +16,9 @@ const Eap = () => {
         <>
             {isLoading && <CustomLoader />}
 
-            <div style={{ marginTop: "-6% ", height: "94vh" }}>
-                <InlineWidget className="calendly-block-1" url="https://calendly.com/karbiswa098/30min" styles={{ height: "94vh", width: "100%" }}></InlineWidget>
-            </div>
+            
+            <div class="calendly-inline-widget" data-url="https://calendly.com/karbiswa098/30min" style="min-width:320px;height:700px;"></div>
+             <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
         </>
     );
 };
