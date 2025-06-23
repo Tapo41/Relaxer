@@ -63,7 +63,7 @@ A deployed version can be checked here: [mindwaves.live](https://www.mindwaves.l
 1. Clone this repository in your local system.
 * Open terminal in a new folder and enter the command given below.
    ```
-   git clone https://github.com/kashishahuja2002/ServiceNow-Code-To-Win.git
+   git clone https://github.com/Tapo41/Relaxer.git
    ```
 
 2. Make sure that Node is installed and updated in your machine.
@@ -102,11 +102,5 @@ A deployed version can be checked here: [mindwaves.live](https://www.mindwaves.l
 - `Monthly Stats`: Show stats for previous months as well.
 
 - `Mobile Application`: Develop a mobile application for the product.
-
-
-## Documentation
-A complete project report for the system with use case diagram, web flow, relational diagram, etc can be found here: [MindWaves | Project Report](/documents/ProjectReport.pdf).
-
-A presentation for the project can be found here: [MindWaves | Presentation](/documents/Presentation.pdf).
 
 <hr>
