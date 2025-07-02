@@ -9,9 +9,6 @@
 ## Overview
 The Mind Waves project aims to keep a check and improve employees’ Mental Health and overall well-being. The core idea behind creating a mental health application for the workplace is to address the growing concerns around stress, anxiety, and mental health in the modern workplace.
 
-A deployed version can be checked here: [mindwaves.live](https://www.mindwaves.live/)
-
-
 ## Features
 1. Track Your Goals
 2. Employee Assistance Program (EAP)
